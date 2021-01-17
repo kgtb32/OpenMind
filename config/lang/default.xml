@@ -1,7 +1,14 @@
 <?xml version="1.0"?>
+<OpenMindLanguageManager>
 <languages>
 	<lang>FR</lang>
 	<lang>EN</lang>
 	<lang>ES</lang>
 	<lang>DE</lang>
 </languages>
+<fr>
+	<trad textid="MainWindow.btn_new">Nouveau</trad>
+	<trad>test</trad>
+	<trad>test2</trad>
+</fr>
+</OpenMindLanguageManager>
